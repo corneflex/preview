@@ -37,3 +37,22 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Expo
+node_modules/
+.expo/
+.yarn/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+cache/
+
+
+packages/react-native-preview-e2e/artifacts
+packages/react-native-preview-e2e/artifacts
